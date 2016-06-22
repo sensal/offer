@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="chap1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chap3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chap4.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chap5.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chap6.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chap6_1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chap7.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chap7_1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chap8.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chap10.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chap9.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chap11.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chap12.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chap12_1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chap13.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="header.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chap14.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chap15.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chap16.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chap17.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chap18.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chap19.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
